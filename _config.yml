@@ -2,18 +2,3 @@ theme: jekyll-theme-slate
 title: Data Science Blog
 description: A central repo for all my Data Science-related work, thoughts, snippets, general ramblings.
 favicon: favicon.ico
-# use a logo image in your nav bar.
-use_logo: true
-
-# logo image to use. logo images are constrained at 50px in height.
-logo: favicon.ico
-
-# make search bar appear in top nav?
-search_in_topnav: true
-
-# in responsive view, show sidebar toggle button?
-toggle-sidebar-button: true
-
-# in responsive view, show navbar toggle button?
-navbar-toggle: true
-
