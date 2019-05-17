@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Data Science Blog
 description: A central repo for all my Data Science-related work, thoughts, snippets, general ramblings.
+favicon: favicon.ico
