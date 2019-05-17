@@ -1,5 +1,3 @@
-# First page
-
 ## Intro
 
 My name is Anna Jones. I currently work as Data Analyst/Data Scientist at Social Point, a mobile gaming company based in Barcelona, Spain.
