@@ -4,4 +4,4 @@ Currently working as a Data Scientist at Social Point, a mobile gaming company b
 
 ## Sub-pages
 
-- [Statistics](/Statistics)
+- [Statistics](/Statistics/statistics-home-page.md)
