@@ -4,5 +4,5 @@ This is the main page for the work I've been doing on statistics. It includes li
 
 [Survival Analysis](./survival-analysis.md)
 
-[Return to homepage](../../index.md)
+[Return to homepage](../index.md)
 
